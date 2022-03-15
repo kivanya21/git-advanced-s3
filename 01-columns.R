@@ -92,3 +92,5 @@ car_mass <- mtcars %>%
 # === <- YOUR CODE ===
 
 Adding some content to this script
+
+Adding content in master after merge
