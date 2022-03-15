@@ -94,3 +94,5 @@ car_mass <- mtcars %>%
 Adding some content to this script
 
 Adding content in master after merge
+
+Adding second content
